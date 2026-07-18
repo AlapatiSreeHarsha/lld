@@ -1,3 +1,4 @@
+package SOLID_principles;
 //Create small, specific interfaces instead of one big interface.
 
 interface Rider{

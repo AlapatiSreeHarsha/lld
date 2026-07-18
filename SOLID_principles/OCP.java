@@ -1,3 +1,4 @@
+package SOLID_principles;
 //You should be able to add new features without changing existing code.
 
 interface Adaptable{
