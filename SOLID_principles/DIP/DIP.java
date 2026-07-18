@@ -1,4 +1,4 @@
-package SOLID_principles;
+package SOLID_principles.DIP;
 //Depend on interfaces (abstractions), not on concrete classes.
 interface Recommendation{
     void recommend();

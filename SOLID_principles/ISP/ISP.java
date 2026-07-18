@@ -1,4 +1,4 @@
-package SOLID_principles;
+package SOLID_principles.ISP;
 //Create small, specific interfaces instead of one big interface.
 
 interface Rider{

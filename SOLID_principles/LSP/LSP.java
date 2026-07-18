@@ -1,4 +1,4 @@
-package SOLID_principles;
+package SOLID_principles.LSP;
 //A child class should be able to replace its parent class without causing problems.
 //Wherever you use a parent object, you should also be able to use any child object.
 class Notification{

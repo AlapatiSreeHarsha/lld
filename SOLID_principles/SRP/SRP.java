@@ -1,4 +1,4 @@
-package SOLID_principles;
+package SOLID_principles.SRP;
 //A class should have only one job (responsibility) and only one reason to change.
 
 /*

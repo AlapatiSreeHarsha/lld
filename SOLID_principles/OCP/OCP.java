@@ -1,4 +1,4 @@
-package SOLID_principles;
+package SOLID_principles.OCP;
 //You should be able to add new features without changing existing code.
 
 interface Adaptable{
